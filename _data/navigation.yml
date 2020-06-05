@@ -1,12 +1,16 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "About"
+    url: /about/
+  - title: "Quick Links"
+    url: /quick-links/
+  - title: "Connections"
+    url: /connections/
+  - title: "Community groups"
+    url: /community-groups/
+  - title: "Birth to 25"
+    url: /birth-25/
+  - title: "25 plus"
+    url: /25-plus/
+  - title: "Glossary"
+    url: /glossary/
