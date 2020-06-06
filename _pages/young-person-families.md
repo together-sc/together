@@ -1,7 +1,7 @@
 ---
-permalink: /quick-links/
-title: "Quick Links"
-excerpt: "Add some links here."
+permalink: /young-person-families/
+title: "Young person and families"
+excerpt: "Young person and families"
 layouts_gallery:
   - url: /assets/images/mm-layout-splash.png
     image_path: /assets/images/mm-layout-splash.png
@@ -16,13 +16,14 @@ last_modified_at: 2020-05-01T10:15:22-04:00
 toc: false
 ---
 
-Add some links here.
+Putting the young person at the heart of everything we do               
 
-Legal stuff CiP
+## Young person and Families
 
-
-## Links
-
-### Early years:
-
-- [Singing Hands](https://singinghands.co.uk/) -- Singing Hands
+* Providing support, networking, advice and training for families
+* Offering signposting and access to a range of professionals
+* A place to talk and a place to listen
+* Access to resources (CiP)
+* A market place with recommendations from others
+* Sibling groups and support
+* Social group activities

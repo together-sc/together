@@ -1,7 +1,7 @@
 ---
-permalink: /quick-links/
-title: "Quick Links"
-excerpt: "Add some links here."
+permalink: /25-plus/
+title: "25 Plus"
+excerpt: "25 Plus"
 layouts_gallery:
   - url: /assets/images/mm-layout-splash.png
     image_path: /assets/images/mm-layout-splash.png
@@ -16,13 +16,6 @@ last_modified_at: 2020-05-01T10:15:22-04:00
 toc: false
 ---
 
-Add some links here.
+Putting the young person at the heart of everything we do
 
-Legal stuff CiP
-
-
-## Links
-
-### Early years:
-
-- [Singing Hands](https://singinghands.co.uk/) -- Singing Hands
+[Young person and employers]({% link _pages/young-person-employers.md %})

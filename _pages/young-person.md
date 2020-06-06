@@ -1,7 +1,7 @@
 ---
-permalink: /birth-25/
-title: "Birth to 25"
-excerpt: "Birth to 25."
+permalink: /young-person/
+title: "Young person"
+excerpt: "Young person"
 layouts_gallery:
   - url: /assets/images/mm-layout-splash.png
     image_path: /assets/images/mm-layout-splash.png
@@ -19,8 +19,12 @@ toc: false
 
 Putting the young person at the heart of everything we do
 
-[Young person]({% link _pages/young-person.md %})
+## Young person
 
-[Young person and families]({% link _pages/young-person-families.md %})
-
-[Young person, schools and colleges]({% link _pages/young-person-school-college.md %})
+Offering bespoke group and individualised support
+ * A place to talk, a place to listen                
+ * Social skills building                            
+ * Relaxation skills training                        
+ * Self awareness                                    
+ * Interpersonal relationships skills             
+ * Social group activities                        

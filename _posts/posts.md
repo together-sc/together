@@ -1,7 +1,7 @@
 ---
-permalink: /quick-links/
-title: "Quick Links"
-excerpt: "Add some links here."
+permalink: /posts/
+title: "Posts"
+excerpt: "Together is something set up by someone."
 layouts_gallery:
   - url: /assets/images/mm-layout-splash.png
     image_path: /assets/images/mm-layout-splash.png
@@ -16,13 +16,4 @@ last_modified_at: 2020-05-01T10:15:22-04:00
 toc: false
 ---
 
-Add some links here.
-
-Legal stuff CiP
-
-
-## Links
-
-### Early years:
-
-- [Singing Hands](https://singinghands.co.uk/) -- Singing Hands
+Create some Posts

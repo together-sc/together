@@ -1,7 +1,7 @@
 ---
-permalink: /quick-links/
-title: "Quick Links"
-excerpt: "Add some links here."
+permalink: /young-person-school-college/
+title: "Young person school and college"
+excerpt: "Young person"
 layouts_gallery:
   - url: /assets/images/mm-layout-splash.png
     image_path: /assets/images/mm-layout-splash.png
@@ -16,13 +16,13 @@ last_modified_at: 2020-05-01T10:15:22-04:00
 toc: false
 ---
 
-Add some links here.
 
-Legal stuff CiP
+Putting the young person at the heart of everything we do
 
+## Young person and schools and colleges
 
-## Links
-
-### Early years:
-
-- [Singing Hands](https://singinghands.co.uk/) -- Singing Hands
+* Supporting schools to audit their provision
+* Facilitate problem solving founded in extensive experience and knowledge
+* Providing a bespoke menu of support, working with the school’s context, needs and budget
+* (Match-making schools?)
+* Offering signposting and access to a range of professionals
