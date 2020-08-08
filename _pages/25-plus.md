@@ -16,6 +16,6 @@ last_modified_at: 2020-05-01T10:15:22-04:00
 toc: false
 ---
 
-Putting the young person at the heart of everything we do
+Putting the young person at the heart of everything we do.
 
 [Young person and employers]({% link _pages/young-person-employers.md %})
