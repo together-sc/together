@@ -17,6 +17,7 @@ header:
 
 ### Our core purpose is to create communities that;
 * support children and young people with their individual needs
-* support families by signposting, enabling conversations, networking, offering advice and training
+* support families by enabling conversations, signposting, networking, offering advice and training
 * support educational settings working with these young people to develop their provision
+* offer access to a range of professionals in short timeframes
 
