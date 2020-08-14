@@ -1,7 +1,7 @@
 ---
 layout: home
 author_profile: true
-excerpt: "Supporting special young people and their communities!!"
+excerpt: "Supporting special young people and their communities. Bringing families and professionals together. Putting the young person at the heart of everything we do."
 header:
   overlay_image: /assets/images/unsplash-image-1.jpg
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
@@ -11,7 +11,7 @@ header:
 ---
 
 
-## Bringing families and professionals together!!
+## Together
 
 * We are a team of people with a variety of experiences and expertise, including education, speech therapy, occupational therapy and educational psychology
 
