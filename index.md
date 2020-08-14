@@ -1,7 +1,7 @@
 ---
 layout: home
 author_profile: true
-excerpt: "Supporting special young people and their communities. Bringing families and professionals together. Putting the young person at the heart of everything we do."
+excerpt: "Putting the young person at the heart of everything we do. Supporting special young people and their communities. Bringing families and professionals together. "
 header:
   overlay_image: /assets/images/unsplash-image-1.jpg
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
