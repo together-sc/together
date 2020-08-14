@@ -13,12 +13,10 @@ header:
 
 ## Together
 
-* We are a team of people with a variety of experiences and expertise, including education, speech therapy, occupational therapy and educational psychology
+* We are a multidisciplinary team of people with a variety of experiences and expertise, including education, speech therapy, occupational therapy and educational psychology. Working together in our shared purpose for supporting young people who have Special Educational Needs or are living with the effects of a rare condition.
 
-### Core purposes
-* Creating communities to support children and young people who have Special Educational Needs or are living with the effects of a rare condition.
-* Creating communities to support families of young people with SEN or living with the effects of a rare condition,
-* Providing support, networking, advice and training for families
-* Creating communities to support schools of young people with SEN or living with the effects of a rare condition
-* Supporting schools working with these young people
-* Offering signposting and access to a range of professionals
+### Our Core purpose is to create communities that;
+* support children and young people with their individual needs
+* support families 
+* supporting schools working with these young people
+* offer signposting and access to a range of professionals
