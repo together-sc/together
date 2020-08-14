@@ -15,8 +15,8 @@ header:
 
 * We are a multidisciplinary team of people with a variety of experiences and expertise, including education, speech therapy, occupational therapy and educational psychology. Working together in our shared purpose for supporting young people who have Special Educational Needs or are living with the effects of a rare condition.
 
-### Our Core purpose is to create communities that;
+### Our core purpose is to create communities that;
 * support children and young people with their individual needs
-* support families 
-* supporting schools working with these young people
-* offer signposting and access to a range of professionals
+* support families by signposting, enabling conversations, networking, offering advice and training
+* support educational settings working with these young people to develop their provision
+
