@@ -1,5 +1,5 @@
 ---
-permalink: /Links/
+permalink: /links/
 title: "Links"
 excerpt: "Links"
 layouts_gallery:
