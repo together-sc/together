@@ -1,18 +1,19 @@
 # main links
 main:
-  - title: "Quick Links"
-    url: /quick-links/
-  - title: "Connections"
-    url: /connections/
-  - title: "Community Groups"
-    url: /community-groups/
-  - title: "Birth to 25"
-    url: /birth-25/
-  - title: "25 plus"
-    url: /25-plus/
-  - title: "Posts"
+  - title: "links"
+    url: /links/
+  # - title: "Connections"
+    # url: /connections/
+  - title: "young person"
+    url: /young-person/
+  - title: "family"
+    url: /family/
+  - title: "education"
+    url: /education/
+  - title: "employment"
+    url: /employment/
+  - title: "posts"
     url: /posts/
-  - title: "About"
+  - title: "about"
     url: /about/
-  - title: "Glossary"
-    url: /glossary/
+  

@@ -1,7 +1,7 @@
 ---
-permalink: /birth-25/
-title: "Birth to 25"
-excerpt: "Birth to 25."
+permalink: /family/
+title: "Family"
+excerpt: "Family"
 layouts_gallery:
   - url: /assets/images/mm-layout-splash.png
     image_path: /assets/images/mm-layout-splash.png
@@ -19,8 +19,10 @@ toc: false
 
 Putting the young person at the heart of everything we do
 
-[Young person]({% link _pages/young-person.md %})
-
-[Young person and families]({% link _pages/young-person-families.md %})
-
-[Young person, schools and colleges]({% link _pages/young-person-school-college.md %})
+* Providing support, networking, advice and training for families
+* Offering signposting and access to a range of professionals
+* A place to talk and a place to listen
+* Access to resources (CiP)
+* A market place with recommendations from others
+* Sibling groups and support
+* Social group activities

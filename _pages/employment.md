@@ -1,7 +1,7 @@
 ---
-permalink: /young-person-employer/
-title: "Young person and employers"
-excerpt: "Young person and employers"
+permalink: /employment/
+title: "Employment"
+excerpt: "Employment"
 layouts_gallery:
   - url: /assets/images/mm-layout-splash.png
     image_path: /assets/images/mm-layout-splash.png

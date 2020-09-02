@@ -1,7 +1,7 @@
 ---
-permalink: /25-plus/
-title: "25 Plus"
-excerpt: "25 Plus"
+permalink: /education/
+title: "Education"
+excerpt: "Education"
 layouts_gallery:
   - url: /assets/images/mm-layout-splash.png
     image_path: /assets/images/mm-layout-splash.png
@@ -18,4 +18,8 @@ toc: false
 
 Putting the young person at the heart of everything we do.
 
-[Young person and employers]({% link _pages/young-person-employers.md %})
+* Supporting schools to audit their provision
+* Facilitate problem solving founded in extensive experience and knowledge
+* Providing a bespoke menu of support, working with the school’s context, needs and budget
+* (Match-making schools?)
+* Offering signposting and access to a range of professionals
