@@ -10,10 +10,10 @@ main:
     url: /family/
   - title: "education"
     url: /education/
-  - title: "employment"
-    url: /employment/
-  - title: "posts"
-    url: /posts/
+  #- title: "employment"
+    #url: /employment/
+  #- title: "posts"
+  #  url: /posts/
   - title: "about"
     url: /about/
   
