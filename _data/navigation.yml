@@ -1,7 +1,5 @@
 # main links
 main:
-  - title: "links"
-    url: /links/
   # - title: "Connections"
     # url: /connections/
   - title: "young person"
@@ -14,6 +12,8 @@ main:
     #url: /employment/
   #- title: "posts"
   #  url: /posts/
+  - title: "links"
+    url: /links/
   - title: "about"
     url: /about/
   
