@@ -25,5 +25,5 @@ Offering support to families, educational settings and aiming to develop support
 If you think what we’re doing is great, please let us know!  Equally, if you think we’re missing something, please let us know that too.  We’re very happy to listen; we’re here to serve and we are committed to reflecting on and further improving our offer.  We very much look forward to working with you.
 
 **Who we are**
-- [Andrea Reid-Kelly]({% link _pages/andrea.md %}) Co-founder and Educational Specialist
-- [Deb Steggall]({% link _pages/deb.md %}) Co-founder and Educational Specialist
+- [Andrea Reid-Kelly]({{ "/andrea/" | relative_url }}) Co-founder and Educational Specialist
+- [Deb Steggall]({{ "/deb/" | relative_url }}) Co-founder and Educational Specialist
