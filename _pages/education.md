@@ -18,8 +18,8 @@ toc: false
 
 Putting the young person at the heart of everything we do.
 
+* Working within short time frames
 * Supporting schools to audit their provision
 * Facilitate problem solving founded in extensive experience and knowledge
 * Providing a bespoke menu of support, working with the school’s context, needs and budget
-* (Match-making schools?)
 * Offering signposting and access to a range of professionals

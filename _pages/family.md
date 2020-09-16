@@ -22,7 +22,7 @@ Putting the young person at the heart of everything we do
 * Providing support, networking, advice and training for families
 * Offering signposting and access to a range of professionals
 * A place to talk and a place to listen
-* Access to resources (CiP)
+* Access to resources 
 * A market place with recommendations from others
 * Sibling groups and support
 * Social group activities
