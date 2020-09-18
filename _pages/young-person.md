@@ -20,11 +20,12 @@ toc: false
 Putting the young person at the heart of everything we do
 
 
-Offering bespoke group and individualised support
- * A place to talk, a place to listen                
- * Social skills building                            
- * Relaxation skills training                        
- * Self awareness     
- * Sensory Intergration                               
- * Interpersonal relationships skills             
- * Social group activities                        
+Bespoke group and individualised support offering
+ * A space to talk, a space to listen 
+ * Sensory Integration work 
+ * Communication skills work              
+ * Social skills building                                                   
+ * Self-awareness activities                     
+ * Interpersonal relationships skills building            
+ * Social group activities  
+ * Relaxation skills training                 

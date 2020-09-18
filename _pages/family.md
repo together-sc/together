@@ -21,7 +21,7 @@ Putting the young person at the heart of everything we do
 
 * Providing support, networking, advice and training for families
 * Offering signposting and access to a range of professionals
-* A place to talk and a place to listen
+* A space to talk and a space to listen
 * Access to resources 
 * A market place with recommendations from others
 * Sibling groups and support

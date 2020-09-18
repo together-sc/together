@@ -13,7 +13,7 @@ header:
 
 ## Together
 
-* We are a multidisciplinary team of people with a variety of experiences and expertise, including education, speech therapy, occupational therapy and educational psychology. Working together in the community towards our shared purpose of supporting young people who have special educational needs or are living with the effects of a rare condition.
+We are a multidisciplinary team of people with a variety of experiences and expertise, including education, speech therapy, occupational therapy and educational psychology. Working together in the community towards our shared purpose of supporting young people who have special educational needs or are living with the effects of a rare condition.
 
 ### Our core purpose is to;
 * support children and young people with their individual needs
