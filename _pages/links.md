@@ -18,9 +18,10 @@ toc: false
 
 ### Legal Documents 
 - [Equality Act 2010](https://www.legislation.gov.uk/ukpga/2010/15/contents) -- the Equality Act became law in 2010 and covers everyone in Britain, protecting people from discrimination, harassment and victimisation
-
+- [SEN Code of Practice](https://www.gov.uk/government/publications/send-code-of-practice-0-to-25) -- as a result of the Children and Families Act 2014 the SEN Code of Practice explains the legal obligations, of Local Education Authorities and educational settings, to those in their care who have special needs 
+- [Children and Families Act 2014](https://www.legislation.gov.uk/ukpga/2014/6/contents/enacted) -- the Children and Families Act 2014 reinforces wider reforms to ensure that all children and young people can succeed, no matter what their background
 ### Official Support Groups
-- [Genetic Allaince UK](https://geneticalliance.org.uk/about-us/) -- the national charity working to improve the lives of patients and families affected by genetic, rare and undiagnosed conditions
+- [Genetic Alliance UK](https://geneticalliance.org.uk/about-us/) -- the national charity working to improve the lives of patients and families affected by genetic, rare and undiagnosed conditions
 - [SWAN UK Syndromes without a name](https://www.undiagnosed.org.uk/) -- a dedicated support network available for families of children and young adults with undiagnosed genetic conditions in the UK
 - [Mencap](https://www.mencap.org.uk/) -- advice and support for individuals with a learning disability and their families
 - [Down's Syndrome Association](https://www.downs-syndrome.org.uk/) -- a national support group for people with Down's Syndrome and their families
@@ -31,6 +32,7 @@ toc: false
 - [Resources for Autism](https://resourcesforautism.org.uk/) -- practical services for children and adults who have autism
 - [Ambitious About Autism](https://forum.ambitiousaboutautism.org.uk/talk-about-autism) -- UK’s largest online autism community
 - [Autism Links](https://www.autismlinks.co.uk/) -- a collection of useful links which cover many areas including money and law, care services, research and publications
+- [British Dyslexia Association](https://www.bdadyslexia.org.uk/) -- a national charity supporting those with dyslexia and professionals working with them
 
 ### Developing Communication
 - [Makaton](https://www.makaton.org/) -- website for a system of signs and symbols to support spoken language
