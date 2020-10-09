@@ -18,7 +18,7 @@ toc: false
 
 ### Legal Documents 
 - [Equality Act 2010](https://www.legislation.gov.uk/ukpga/2010/15/contents) -- the Equality Act became law in 2010 and covers everyone in Britain, protecting people from discrimination, harassment and victimisation
-- [SEN Code of Practice](https://www.gov.uk/government/publications/send-code-of-practice-0-to-25) -- as a result of the Children and Families Act 2014 the SEN Code of Practice explains the legal obligations, of Local Education Authorities and educational settings, to those in their care who have special needs 
+- [SEN Code of Practice](https://www.gov.uk/government/publications/send-code-of-practice-0-to-25) -- as a result of the Children and Families Act 2014 the SEN Code of Practice explains the legal obligations; from Local Education Authorities and educational settings, to those in their care who have special needs 
 - [Children and Families Act 2014](https://www.legislation.gov.uk/ukpga/2014/6/contents/enacted) -- the Children and Families Act 2014 reinforces wider reforms to ensure that all children and young people can succeed, no matter what their background
 ### Official Support Groups
 - [Genetic Alliance UK](https://geneticalliance.org.uk/about-us/) -- the national charity working to improve the lives of patients and families affected by genetic, rare and undiagnosed conditions
@@ -38,7 +38,7 @@ toc: false
 - [Makaton](https://www.makaton.org/) -- website for a system of signs and symbols to support spoken language
 - [Singing Hands](https://singinghands.co.uk/) -- find Makaton signed songs with Makaton tutors Suzanne and Tracy
 - [PECS](https://pecs-unitedkingdom.com/) -- a framework for establishing and supporting effective learning environments, also PECS (Picture Exchange Communication System)
-- [Widget](www.widgit.com) -- the home of Widgit symbols, with free resources and other information
+- [Widgit](https://www.widgit.com) -- the home of Widgit symbols, with free resources and other information
 - [Intensive Interaction](https://www.intensiveinteraction.org/) -- developing the fundamentals of communication
 - [I CAN](https://ican.org.uk/i-cans-talking-point/) -- information on children’s communication
 - [Communication Matters](https://communicationmatters.org.uk/) -- supports people with little or no clear speech
