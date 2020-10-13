@@ -20,7 +20,7 @@ toc: false
 Putting the young person at the heart of everything we do
 
 
-Bespoke group and individualised support offering
+Bespoke group and individualised support offering for example
  * A space to talk, a space to listen 
  * Sensory Integration work 
  * Communication skills work              
@@ -28,4 +28,5 @@ Bespoke group and individualised support offering
  * Self-awareness activities                     
  * Interpersonal relationships skills building            
  * Social group activities  
- * Relaxation skills training                 
+ * Relaxation skills training      
+ * Tailored activities responding to your current needs           
