@@ -90,8 +90,6 @@ analytics:
   google:
     tracking_id          :
     anonymize_ip         : # true, false (default)
-
-
 # Site Author
 author:
   name             : "Deb & Andrea"
