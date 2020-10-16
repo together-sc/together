@@ -1,6 +1,7 @@
 ---
-permalink: /posts/
-title: "Posts"
+permalink: /blog/
+title: "Blog"
+layout: posts
 excerpt: "Together is something set up by someone."
 layouts_gallery:
   - url: /assets/images/mm-layout-splash.png
@@ -12,8 +13,6 @@ layouts_gallery:
   - url: /assets/images/mm-layout-archive.png
     image_path: /assets/images/mm-layout-archive.png
     alt: "archive layout example"
-last_modified_at: 2020-05-01T10:15:22-04:00
+last_modified_at: 2020-10-16T18:15:22-04:00
 toc: false
 ---
-
-Create some Posts

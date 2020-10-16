@@ -10,13 +10,13 @@ main:
     url: /education/
   #- title: "employment"
     #url: /employment/
-  #- title: "posts"
-  #  url: /posts/
   - title: "links"
     url: /links/
   - title: "safeguarding"
-    url: /safeguarding/    
+    url: /safeguarding/
   - title: "about"
     url: /about/
+  - title: "blog"
+    url: /blog/    
   
   
