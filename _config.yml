@@ -116,7 +116,10 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/togethercmty/"
-
+    - label: "YouTube"
+      icon: "fab fa-fw fa-youtube-square"
+      url: "https://www.youtube.com/channel/UCQAyRXyaljft4nelUYmtoPA"
+     
 # Site Footer
 footer:
   links:
