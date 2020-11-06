@@ -94,7 +94,8 @@ analytics:
 author:
   name             : "Deb & Andrea"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "A nonprofit company of special needs professionals serving the community."
+  bio              : "A nonprofit company of special needs professionals serving the community.
+                      Raise funds for us and contact us using the links below."
   location         : "Sutton Coldfield"
   email            :
   links:
