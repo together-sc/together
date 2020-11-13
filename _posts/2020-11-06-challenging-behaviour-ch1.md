@@ -39,29 +39,35 @@ There are different ways to visually portray the rage cycle or stages of a crisi
 
 The six stages identified include:
 
-Anxiety/trigger:  something sparks a behaviour. Even though a trigger may have been something from 1 minute ago, 1 day ago or even a week ago, it is more than likely that it exists.  Working to find this out pays dividends in understanding how a crisis might be avoided in the future.
+**Anxiety/trigger:**  something sparks a behaviour. Even though a trigger may have been something from 1 minute ago, 1 day ago or even 1 week ago, it is more than likely that it exists.  Working to find this out pays dividends in understanding how a crisis might be avoided in the future.
 
-Escalation: with the trigger and behaviour not understood or diffused, escalation is likely.  This stage is key as there is still a chance that at this point, the young person displaying the challenging behaviour may still be able to reason.  But the likelihood of this decreases as the anxiety or severity of behaviour increases.
+**Escalation:** with the trigger and behaviour not understood or diffused, escalation is likely.  This stage is key as there is still a chance that at this point, the young person displaying the challenging behaviour may still be able to reason.  But the likelihood of this decreases as the anxiety or severity of behaviour increases.
 
-Crisis:  this may look different at different times.  It can range from violence, to extreme withdrawal but one thing that is very likely at this stage is that the young person will need support.  For them, it may be as though they have dug themselves into a big hole and can’t get out of it on their own; they will need someone to throw them a ladder.  It is extremely unlikely that a young person will be able to reason at this point, as rage will have taken over.  The key focus here is to make sure that everyone involved is as safe as they can be and that the young person is supported with strategies to help them de-escalate.  This will look different depending on the behaviour and the young person.  Sometimes positive touch will help, sometimes it won’t.  Knowing the young person and what they may respond to is invaluable at this stage.
+**Crisis:** this may look different at different times.  It can range from violence, to extreme withdrawal but one thing that is very likely at this stage is that the young person will need support.  For them, it may be as though they have dug themselves into a big hole and can’t get out of it on their own; they will need someone to throw them a ladder.  It is extremely unlikely that a young person will be able to reason at this point, as rage will have taken over.  The key focus here is to make sure that everyone involved is as safe as they can be and that the young person is supported with strategies to help them de-escalate.  This will look different depending on the behaviour and the young person.  Sometimes positive touch will help, sometimes it won’t.  Knowing the young person and what they may respond to is invaluable at this stage.
 
-Recovery: at this stage, it’s about reducing the intervention that was put in at the crisis point.  It’s really key to watch for signs of calming and to respond to them. 
+**Recovery:** at this stage, it’s about reducing the intervention that was put in at the crisis point.  It’s really key to watch for signs of calming and to respond to them. 
 
-Depression: this is where the reality of the situation can kick in; no-one wants to feel out of control but at this point, it may register that they have been.  A young person may feel disappointment, shame or a whole host of other negative feelings.  Again knowing the young person is key here.  They may need close support at this point or they may need space. 
+**Depression:** this is where the reality of the situation can kick in; no-one wants to feel out of control but at this point, it may register that they have been.  A young person may feel disappointment, shame or a whole host of other negative feelings.  Again knowing the young person is key here.  They may need close support at this point or they may need space. 
 
-Restoration: this can never be valued enough.  Supporting a young person in crisis can be a relationship changer for everyone involved.  There is a small chance it could improve the relationship; ‘I went into crisis, needed someone and you were there’.  It could also damage the relationship as actions and their consequences may shake the trust in a relationship.  When rage takes over in a crisis, the actions of a young person are very rarely, if ever, personal.  However, the effects can be devastating.  It is really important to acknowledge how hard it was but then make a committed effort to restore the relationship.  There are different ways to do this (and it can only be done when everyone involved is ready) but key points to consider include:
-How did you feel?
-What could you do next time you feel that like that?
-What were the good choices/bad choices?
-What can be done to make things better?
+**Restoration:** this can never be valued enough.  Supporting a young person in crisis can be a relationship changer for everyone involved.  There is a small chance it could improve the relationship; ‘I went into crisis, needed someone and you were there’.  It could also damage the relationship as actions and their consequences may shake the trust in a relationship.  When rage takes over in a crisis, the actions of a young person are very rarely, if ever, personal.  However, the effects can be devastating.  It is really important to acknowledge how hard it was but then make a committed effort to restore the relationship.  There are different ways to do this (and it can only be done when everyone involved is ready) but key points to consider include:
 
-There are other important things to think about with this cycle:
-The graphic is a very linear picture, the reality is often very different.  One stage may last much longer than another, you may hardly notice a stage or it could be skipped entirely. 
-There is no timescale.  The recovery may take 30 minutes, 3 hours or 3 months.  All responses, although they can challenge, are OK.  
-There is also no ‘calm’ line at the beginning, we don’t always have to be on an ‘up’ or a ‘down’, we might be just OK. 
-There is no guarantee that this will be an ‘in’ and ‘out’ process and that stages 1-6 will flow.  A young person may exhibit stages 2 – 4 and then go back to stage 2.  Don’t assume it’s over until it is!
-Everyone involved in this cycle is equally important.  Yes, the young person will need support but so will those supporting them.  No-one signs up to enter into a crisis with a young person, who can help you with how it affects you?  It is a perfectly normal human response to feel knocked, bruised, low in confidence, unloved or depressed afterwards.  Please get the support you need too.
+* How did you feel?
+* What could you do next time you feel that like that?
+* What were the good choices/bad choices
+
+* What can be done to make things better?
+
+
+There are other important things to think about with this cycle. The graphic is a very linear picture, the reality is often very different.  One stage may last much longer than another, you may hardly notice a stage or it could be skipped entirely. 
+* There is no timescale.  
+* The recovery may take 30 minutes, 3 hours or 3 months.  
+* All responses, although they can challenge, are OK.  
+* There is also no ‘calm’ line at the beginning, we don’t always have to be on an ‘up’ or a ‘down’, we might be just OK. 
+* There is no guarantee that this will be an ‘in’ and ‘out’ process and that stages 1-6 will flow.  A young person may exhibit stages 2 – 4 and then go back to stage 2.  
+* Don’t assume it’s over until it is!
+* Everyone involved in this cycle is equally important.  Yes, the young person will need support but so will those supporting them.  No-one signs up to enter into a crisis with a young person, who can help you with how it affects you?  
+* It is a perfectly normal human response to feel knocked, bruised, low in confidence, unloved or depressed afterwards. Please get the support you need too.
 
 If you feel that it would be useful to develop your understanding of this cycle, please feel free to contact us for support by email or through our Facebook page.  
 
-Challenging behaviour is a huge topic and there are never any easy fixes. Deb and `I have only just scratched the surface here. In our future blogs we will look at the need to feel some control, strategies that can be used and the importance of understanding emotions. We hope that this chapter in our series on challenging behaviour has given you some food for thought and helps you to begin to make some sense of what might be happening. Do check out our upcoming blogs    in the coming weeks and let us know your thoughts on this chapter via our Facebook page or contact us via email.
+Challenging behaviour is a huge topic and there are never any easy fixes. Deb and I have only just scratched the surface here. In our future blogs we will look at the need to feel some control, strategies that can be used and the importance of understanding emotions. We hope that this chapter in our series on challenging behaviour has given you some food for thought and helps you to begin to make some sense of what might be happening. Do check out our upcoming blogs    in the coming weeks and let us know your thoughts on this chapter via our Facebook page or contact us via email.
