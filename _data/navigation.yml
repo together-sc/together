@@ -18,5 +18,6 @@ main:
     url: /about/
   - title: "blog"
     url: /blog/    
-  
+  - title: "resources"
+    url: /resources/ 
   
