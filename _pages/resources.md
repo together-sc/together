@@ -16,10 +16,10 @@ last_modified_at: 2021-1-13T18:15:22-04:00
 toc: false
 ---
 
-**You Tube Playlists**
+**YouTube Playlists**
 
 [Songs with Makaton signs](https://www.youtube.com/playlist?list=PLQ-pjlhMSQIKnKqmygdRzaPlChViEBHDF) 
 
-[Home Learnig Help](https://www.youtube.com/playlist?list=PLQ-pjlhMSQIJni2aWMjgn2Tn2rHhwhVrx)
+[Home Learning Help](https://www.youtube.com/playlist?list=PLQ-pjlhMSQIJni2aWMjgn2Tn2rHhwhVrx)
 
-[Rare Diseas Vlogs](https://www.youtube.com/playlist?list=PLQ-pjlhMSQIIhhIKJ_SHRm5KZpKR7-jzF) 
+[Rare Disease Vlogs](https://www.youtube.com/playlist?list=PLQ-pjlhMSQIIhhIKJ_SHRm5KZpKR7-jzF) 
